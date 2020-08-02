@@ -9,4 +9,6 @@ The script needs 3 things to be executed
 The script will check the logs folder and will add the backup files with device hostname, device IP address and backup time.
 Incase if the logs folder / hosts file / commands file is not available in the path where the script is run, the script will create the logs folder / hosts file / commands file  and add the backup files in it
 
+User has to manually enter the device IP addresses in thh hosts file and the backup commands in the commands file 
+
 Under user editable section user can update the script path and the password for the script to run
