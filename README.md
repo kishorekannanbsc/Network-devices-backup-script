@@ -1,5 +1,5 @@
 # Network-devices-backup-script
-This vbscript can me mapped to a button inside securecrt and can be used to take backup from multiple devices with multiple backup commands
+This vbscript can be mapped to a button inside securecrt and can be used to take backup from multiple devices with multiple backup commands
 
 The script needs 3 things to be executed
   1.hosts file where all the devics IP address are saved
